@@ -1,0 +1,3 @@
+# Flipper French Community
+
+Premier commit. En cours de création...
