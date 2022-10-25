@@ -13,6 +13,9 @@ Mais comme partout il y'a des règles :
 * Si vous voullez contribuez à un repo existant, veuillez vous réferer au notes "Comment contribuer" de celui-ci. Si il n'en possède pas, essayez de faire vos Pull Requests de façon a corréspondre à ce qui est présent sur le repo.
 * Les règles de notre organisations, ainsi que ce que vous pouvez y faire peuvent évoluer au fil du temps.
 
-# Contact
+# Contact & Comment devenir membre
 
 Besoin d'aide? Vous souhaitez devenir membre? Ou vous voullez simplement discuter du Flipper Zero et de sujet similaires, vous nous trouverez sur <a href="https://t.me/flipper_zero_french">Telegram</a>
+
+Si vous souhaitez devenir membre, assurez vous de nous fournir sur Telegram l'adresse URL de votre profil GitHub.
+
