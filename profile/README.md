@@ -15,4 +15,4 @@ Mais comme partout il y'a des règles :
 
 # Contact
 
-Besoin d'aide? Ou vous voullez simplement discuter du Flipper Zero et de sujet similaires, vous nous trouverez sur <a href="https://t.me/flipper_zero_french">Telegram</a>
+Besoin d'aide? Vous souhaitez devenir membre? Ou vous voullez simplement discuter du Flipper Zero et de sujet similaires, vous nous trouverez sur <a href="https://t.me/flipper_zero_french">Telegram</a>
